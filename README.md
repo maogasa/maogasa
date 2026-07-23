@@ -16,6 +16,6 @@ I'm a Computer Science student who likes solving complex problems through algori
 
 ## ⚡ Beyond the Screen
 
-- 🧩 **Speedcubing:** Solving 3x3s (PB: 11.222 seconds!)
+- 🧩 **Speedcubing:** Solving 3x3s (PB: 11.222s)
 - 🇯🇵 **Japanese:** Working my way through conversational Japanese (N3-N2 level)
 - 📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/marcos-akira/) • [Email](mailto:akira.ogasawara@usp.br)
