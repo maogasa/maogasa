@@ -1,31 +1,21 @@
-# Hi! I'm Akira 👋
+# Hi there! I'm Akira 👋
 
-I'm a Computer Science student who enjoys solving problems through algorithms and programming.
+I'm a Computer Science student who likes solving complex problems through algorithms, mathematics, and clean code. When I'm not studying, you can usually find me competing in programming contests or building tools to explore new ideas in AI.
 
-Most of my time is spent learning, doing competitive programming, and building small projects that help me explore new ideas.
+## 🚀 What I'm Up To
 
-## 🌱 Currently
+- 🏛️ **Studying:** Computer Science
+- ⚔️ **Competitive Programming:** Solving problems on [Codeforces](https://codeforces.com/profile/marcos_akira)
+- 🏆 **Targeting:** Consistent daily problem-solving and algorithmic mastery
+- 🌱 **Learning:** Deepening my knowledge in C++ STL and Python algorithms
 
-- 📚 Studying Computer Science
-- 🐍 Learning Python
-- ⚙️ Improving my C++ and C
-- 🧠 Practicing algorithms and mathematics
+## 🛠️ Tech Stack
 
-## 💻 Tech
+**Languages:** C++ | C | Python    
+**Focus Areas:** Data Structures, Algorithms, Artificial Intelligence, Math
 
-- Python
-- C++
-- C
+## ⚡ Beyond the Screen
 
-## 🎯 Interests
-
-- Competitive Programming
-- Algorithms
-- Data Structures
-- Mathematics
-- Artificial Intelligence
-
-## 🎲 Outside of coding
-
-- 🧩 Speedcubing
-- 🇯🇵 Learning Japanese
+- 🧩 **Speedcubing:** Solving 3x3s (PB: 11.222 seconds!)
+- 🇯🇵 **Japanese:** Working my way through conversational Japanese (N3-N2 level)
+- 📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/marcos-akira/) • [Email](mailto:akira.ogasawara@usp.br)
