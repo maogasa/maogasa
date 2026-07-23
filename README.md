@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi! I'm Akira 👋
 
-<!--
-**maogasa/maogasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who enjoys solving problems through algorithms and programming.
 
-Here are some ideas to get you started:
+Most of my time is spent learning, doing competitive programming, and building small projects that help me explore new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently
+
+- 📚 Studying Computer Science
+- 🐍 Learning Python
+- ⚙️ Improving my C++ and C
+- 🧠 Practicing algorithms and mathematics
+
+## 💻 Tech
+
+- Python
+- C++
+- C
+
+## 🎯 Interests
+
+- Competitive Programming
+- Algorithms
+- Data Structures
+- Mathematics
+- Artificial Intelligence
+
+## 🎲 Outside of coding
+
+- 🧩 Speedcubing
+- 🇯🇵 Learning Japanese
