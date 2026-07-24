@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Marcos Akira</h1>
-  <p>Computer Science @ USP | Competitive Programmer</p>
+  <p>Computer Science @ USP | Competitive Programming Enthusiast</p>
 
   <a href="https://codeforces.com/profile/marcos_akira">
     <img src="https://img.shields.io/badge/Codeforces-marcos__akira-red?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
@@ -15,27 +15,44 @@
 
 <br />
 
-### 🎯 About Me
+## About
 
-I'm a CS undergraduate focusing on algorithmic efficiency, C++, and mathematics.
+Computer Science undergraduate at the University of São Paulo (USP). Currently focusing on core algorithmic problem-solving, discrete math, and C++ fundamentals.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Tech Stack & Focus</h4>
-      <ul>
-        <li><b>Languages:</b> C++, C, Python</li>
-        <li><b>Core:</b> Data Structures, Graph Algorithms, Math</li>
-        <li><b>Learning:</b> Deepening C++ STL & Python AI workflows</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Personal</h4>
-      <ul>
-        <li><b>Speedcubing:</b> 3x3 Single PB — 11.222s</li>
-        <li><b>Languages:</b> Japanese (~N3–N2)</li>
-        <li><b>Goal:</b> Daily CP problem-solving consistency</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Education:** B.S. in Computer Science — University of São Paulo (USP)
+- **Competitive Programming:** Active on [Codeforces](https://codeforces.com/profile/marcos_akira) (Target: Pupil / Specialist)
+- **Languages:** Portuguese (Native), English (Intermediate), Japanese (~N3–N2)
+
+---
+
+## Technical Focus
+
+| Area | Topics / Tools |
+| :--- | :--- |
+| **Languages** | C++, C, Python |
+| **Algorithmic Topics** | Implementation, Basic Math, Greedy Algorithms, Two Pointers, Binary Search |
+| **Environment & Tools** | Linux, Git, Vim, GCC/GDB |
+
+---
+
+## Goals
+
+- **Codeforces Progress:** Build consistency in Div. 3 & Div. 2 contests to reach Specialist rank.
+- **Academic Focus:** Data Structures, Object-Oriented Programming, Discrete Math.
+- **Languages:** Practicing conversational Japanese toward JLPT N2 certification.
+
+---
+
+## Codeforces Stats
+
+<div align="center">
+  <a href="https://codeforces.com/profile/marcos_akira">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=marcos_akira&theme=nord" alt="Codeforces Stats" />
+  </a>
+</div>
+
+---
+
+## Personal
+
+- **Speedcubing:** 3x3 Single PB — 11.222s
