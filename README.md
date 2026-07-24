@@ -1,21 +1,41 @@
-# Hi there! I'm Akira 👋
+<div align="center">
+  <h1>Marcos Akira</h1>
+  <p>Computer Science @ USP | Competitive Programmer</p>
 
-I'm a Computer Science student who likes solving complex problems through algorithms, mathematics, and clean code. When I'm not studying, you can usually find me competing in programming contests or building tools to explore new ideas in AI.
+  <a href="https://codeforces.com/profile/marcos_akira">
+    <img src="https://img.shields.io/badge/Codeforces-marcos__akira-red?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-akira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos_Akira-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akira.ogasawara@usp.br">
+    <img src="https://img.shields.io/badge/Email-akira.ogasawara@usp.br-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-## 🚀 What I'm Up To
+<br />
 
-- 🏛️ **Studying:** Computer Science
-- ⚔️ **Competitive Programming:** Solving problems on [Codeforces](https://codeforces.com/profile/marcos_akira)
-- 🏆 **Targeting:** Consistent daily problem-solving and algorithmic mastery
-- 🌱 **Learning:** Deepening my knowledge in C++ STL and Python algorithms
+### 🎯 About Me
 
-## 🛠️ Tech Stack
+I'm a CS undergraduate focusing on algorithmic efficiency, C++, and mathematics.
 
-**Languages:** C++ | C | Python    
-**Focus Areas:** Data Structures, Algorithms, Artificial Intelligence, Math
-
-## ⚡ Beyond the Screen
-
-- 🧩 **Speedcubing:** Solving 3x3s (PB: 11.222s)
-- 🇯🇵 **Japanese:** Working my way through conversational Japanese (N3-N2 level)
-- 📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/marcos-akira/) • [Email](mailto:akira.ogasawara@usp.br)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Tech Stack & Focus</h4>
+      <ul>
+        <li><b>Languages:</b> C++, C, Python</li>
+        <li><b>Core:</b> Data Structures, Graph Algorithms, Math</li>
+        <li><b>Learning:</b> Deepening C++ STL & Python AI workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Personal</h4>
+      <ul>
+        <li><b>Speedcubing:</b> 3x3 Single PB — 11.222s</li>
+        <li><b>Languages:</b> Japanese (~N3–N2)</li>
+        <li><b>Goal:</b> Daily CP problem-solving consistency</li>
+      </ul>
+    </td>
+  </tr>
+</table>
