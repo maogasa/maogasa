@@ -38,6 +38,7 @@ Computer Science undergraduate at the University of São Paulo (USP). Currently 
 ## Goals
 
 - **Codeforces Progress:** Build consistency in Div. 3 & Div. 2 contests to reach Specialist rank.
+- **Extracurriculars:** Member of **[FEA.dev](https://feadev.com.br)** — collaborating on tech, data science, and quantitative finance initiatives
 - **Academic Focus:** Data Structures, Object-Oriented Programming, Discrete Math.
 - **Languages:** Practicing conversational Japanese toward JLPT N2 certification.
 
