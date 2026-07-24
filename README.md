@@ -20,6 +20,7 @@
 Computer Science undergraduate at the University of São Paulo (USP). Currently focusing on core algorithmic problem-solving, discrete math, and C++ fundamentals.
 
 - **Education:** B.S. in Computer Science — University of São Paulo (USP)
+- **Extracurriculars:** Member of **[FEA.dev](https://feadev.com.br)** — collaborating on tech, data science, and quantitative finance initiatives
 - **Competitive Programming:** Active on [Codeforces](https://codeforces.com/profile/marcos_akira) (Target: Pupil / Specialist)
 - **Languages:** Portuguese (Native), English (Intermediate), Japanese (~N3–N2)
 
@@ -38,7 +39,6 @@ Computer Science undergraduate at the University of São Paulo (USP). Currently 
 ## Goals
 
 - **Codeforces Progress:** Build consistency in Div. 3 & Div. 2 contests to reach Specialist rank.
-- **Extracurriculars:** Member of **[FEA.dev](https://feadev.com.br)** — collaborating on tech, data science, and quantitative finance initiatives
 - **Academic Focus:** Data Structures, Object-Oriented Programming, Discrete Math.
 - **Languages:** Practicing conversational Japanese toward JLPT N2 certification.
 
