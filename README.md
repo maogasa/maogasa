@@ -31,7 +31,7 @@ Computer Science undergraduate at the University of São Paulo (USP). Currently 
 | Area | Topics / Tools |
 | :--- | :--- |
 | **Languages** | C++, C, Python |
-| **Algorithmic Topics** | Implementation, Basic Math, Greedy Algorithms, Two Pointers, Binary Search |
+| **Algorithmic Topics** | Greedy, Binary Search, Two Pointers, Graphs (learning), DP (learning) |
 | **Environment & Tools** | Linux, Git, Vim, GCC/GDB |
 
 ---
