@@ -44,16 +44,6 @@ Computer Science undergraduate at the University of São Paulo (USP). Currently 
 
 ---
 
-## Codeforces Stats
-
-<div align="center">
-  <a href="https://codeforces.com/profile/marcos_akira">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=marcos_akira&theme=nord" alt="Codeforces Stats" />
-  </a>
-</div>
-
----
-
 ## Personal
 
 - **Speedcubing:** 3x3 Single PB — 11.222s
